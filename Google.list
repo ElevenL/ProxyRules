@@ -17,6 +17,7 @@ DOMAIN,mtalk.google.com
 # 来源：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,alt1-mtalk.google.com
 DOMAIN-SUFFIX,alt2-mtalk.google.com
 DOMAIN-SUFFIX,alt3-mtalk.google.com
