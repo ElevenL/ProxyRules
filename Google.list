@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,withgoogle.com
 
 # GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
 IP-CIDR,64.233.177.188/32,no-resolve
