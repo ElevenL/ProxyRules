@@ -66,6 +66,27 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,withgoogle.com
 
+# Google
+DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,ads.gmodules.com
+DOMAIN-SUFFIX,ads.google.com
+DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,afd.l.google.com
+DOMAIN-SUFFIX,badad.googleplex.com
+DOMAIN-SUFFIX,csi.gstatic.com
+DOMAIN-SUFFIX,doubleclick.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,googlecommerce.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,mobileads.google.com
+DOMAIN-SUFFIX,pagead-tpc.l.google.com
+DOMAIN-SUFFIX,pagead.google.com
+DOMAIN-SUFFIX,pagead.l.google.com
+DOMAIN-SUFFIX,service.urchin.com
+
 # GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
 IP-CIDR,64.233.177.188/32,no-resolve
 IP-CIDR,64.233.186.188/32,no-resolve
